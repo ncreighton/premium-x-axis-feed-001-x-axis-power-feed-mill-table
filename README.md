@@ -1,0 +1,2 @@
+# premium-x-axis-feed-001-x-axis-power-feed-mill-table
+Tired of scattered notes and forgotten adjustments on your power feed setup? This Notion template brings order to your mill table motor craft lab, turning chaos into a streamlined workflow.  This template solves the chronic disorganization of tracking x-axis power feed calibrations, motor performance data, and mill table projects. It centralizes al
